@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">formAndroidCompose</string>
+    <string name="Hello">Hey there,</string>
+</resources>
